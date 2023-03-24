@@ -1,3 +1,11 @@
+
+twitter-raw
+.DS_Store
+meta-data
+processed
+tweets
+models
+
 # History files
 .Rhistory
 .Rapp.history
